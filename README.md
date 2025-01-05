@@ -1,6 +1,6 @@
-# **ssl_techniques**
+# **Semi-Supervised Learning Techniques**
 
-This repository is part of my Master's Thesis: **Exploring Semi-Supervised Methods in Magnetic Resonance Imaging Analysis**. It provides the necessary code to train and evaluate various Semi-Supervised Learning (SSL) techniques for medical image segmentation.
+This repository is part of Ieva Pociūtė Master's Thesis: **Exploring Semi-Supervised Methods in Magnetic Resonance Imaging Analysis**. It provides the necessary code to train and evaluate various Semi-Supervised Learning (SSL) techniques for medical image segmentation.
 
 ---
 
